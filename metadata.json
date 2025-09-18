@@ -1,0 +1,5 @@
+{
+  "name": "Smart Helmet Verification System",
+  "description": "A system for users to register helmets with their documents, and for police to verify helmet authenticity by scanning RFID tags and viewing the uploaded documents.",
+  "requestFramePermissions": []
+}
